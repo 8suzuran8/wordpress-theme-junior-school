@@ -1,4 +1,8 @@
 /* ------------------------------------
+Screenshot
+------------------------------------ */
+<img alt="画面のスクリーンショット" src="https://github.com/8suzuran8/wordpress-theme-junior-school/blob/5d08466342c72268e090e7b9de76febab7dc737a/screenshot.png">
+/* ------------------------------------
 License
 ------------------------------------ */
 
