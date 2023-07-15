@@ -24,6 +24,16 @@ Scripts and Image was created by suzuran, Copyright 2014 suzuran
 All scripts in "/js" folder
 
 /* ------------------------------------
+Why is it not officially released?
+------------------------------------ */
+For official publication, index.php is required.
+But this theme doesn't need index.php.
+I avoided creating garbage files.
+
+Because it is correctly recognized as a theme,
+Please use it at ease.
+
+/* ------------------------------------
 Installation
 ------------------------------------ */
 
