@@ -621,9 +621,11 @@ aside a:visited {
 		padding: 0 1em 0 1em;
 	}
 
+	/*
 	body.category > main > article > ul > li[itemtype="http://schema.org/WebPage"] * {
 		left: 2em;
 	}
+	*/
 
 	.comment-respond {
 		padding-bottom: 1em;
