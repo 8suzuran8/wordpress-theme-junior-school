@@ -64,13 +64,15 @@ Because the layout is difficult to read next to too wide, this was a fixed width
 That is in the margin was to arrange wispy junior school emblem.
 
 [File List]
+LICENSE
+README.md
 example-top-page.txt
-junior-school-design.css
 name.png
 no-repeat.png
-readme.txt
-repeat.png
 repeat-x.png
+repeat.png
+screenshot.png
+style.css
 
 [Create File]
 Create your school name image from name.png.
