@@ -34,6 +34,10 @@ Tags:
 		height: 276px;
 	}
 
+    body > header > h1 {
+		background: rgba(110, 195, 255, .5);
+    }
+
 	body > header > p {
         background-color: transparent;
         position: absolute;
@@ -218,6 +222,10 @@ Tags:
     }
 
     body > header > a {
+        top: 6em;
+    }
+
+    body.disabled-use-title > header > a {
         top: 6.5em;
     }
 
@@ -274,13 +282,29 @@ Tags:
         display: block;
     }
 
+    body > nav li:hover ul.sub-menu {
+        z-index: 2;
+    }
+
+    body > nav li:hover ul.sub-menu:has(:not(ul.sub-menu)) {
+        background-color: #c6f0ff;
+    }
+
     body > aside {
         right: 0;
         position: absolute;
         top: calc(276px + 4.56em);
     }
 
+    body.disabled-use-title > aside {
+        top: 21.9em;
+    }
+
     body > ol + main + aside {
-        top: calc(276px + 8.2em);
+        top: calc(276px + 8.3em);
+    }
+
+    body.disabled-use-title > ol + main + aside {
+        top: 25.5em;
     }
 }
